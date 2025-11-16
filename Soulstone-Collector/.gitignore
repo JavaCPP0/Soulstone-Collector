@@ -33,3 +33,6 @@ Thumbs.db
 # Crash / 레포트
 sysinfo.txt
 *.stackdump
+
+
+Assets/
