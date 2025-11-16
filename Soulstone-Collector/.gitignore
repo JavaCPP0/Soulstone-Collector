@@ -35,4 +35,9 @@ sysinfo.txt
 *.stackdump
 
 
-Assets/
+# 🔒 유료 에셋 전체는 무시
+Assets/Farm RPG - Tiny Asset Pack - (All in One)/*
+
+# ✅ 그 안의 Codes 폴더만 다시 포함
+!Assets/Farm RPG - Tiny Asset Pack - (All in One)/Codes/
+!Assets/Farm RPG - Tiny Asset Pack - (All in One)/Codes/**
