@@ -1,0 +1,35 @@
+########################
+# Unity 기본 무시 목록
+########################
+
+# Unity에서 다시 생성 가능한 폴더
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+
+# 빌드 결과물
+Build/
+Builds/
+
+# 기타 캐시
+MemoryCaptures/
+Recordings/
+
+# Visual Studio 관련
+.vs/
+*.user
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.userprefs
+
+# OS / 에디터 임시 파일
+.DS_Store
+Thumbs.db
+
+# Crash / 레포트
+sysinfo.txt
+*.stackdump
